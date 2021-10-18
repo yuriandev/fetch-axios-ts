@@ -1,0 +1,17 @@
+{
+  "name": "fetch-axios",
+  "version": "1.0.0",
+  "description": "Small study project",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "keywords": [],
+  "author": "Yurik",
+  "license": "ISC",
+  "devDependencies": {
+    "axios": "^0.23.0",
+    "ts-node": "^10.3.0",
+    "typescript": "^4.4.4"
+  }
+}
